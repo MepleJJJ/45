@@ -1,4 +1,4 @@
 #!
 echo "taget"
-sleep =load
+sleep 14
 :
